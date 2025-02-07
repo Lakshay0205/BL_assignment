@@ -142,3 +142,19 @@
 - object diagram
 - sequence diagram
 - aggregation association and composition
+### 07th February
+**What was taught**: Learnt about Inheritance and their types.
+**What i Learned**: practised of 10 question given by mentors to enhance my skills.
+[Topic]
+
+Inheritance
+Single Level Inheritance
+Multilevel Inheritance
+Hierarchical Inheritance
+Key Features of Inheritance
+Method Overriding
+Constructor Inheritance in Java
+Polymorphism and Inheritance
+Access Modifiers and Inheritance
+
+
