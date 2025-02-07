@@ -145,7 +145,7 @@
 ### 07th February
 - **What was taught**: Learnt about Inheritance and their types.
 - **What i Learned**: practised of 10 question given by mentors to enhance my skills.
-[Topic]
+- [Topic]
 
 - Inheritance
 - Single Level Inheritance
