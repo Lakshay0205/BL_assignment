@@ -157,4 +157,51 @@
 - Polymorphism and Inheritance
 - Access Modifiers and Inheritance
 
+10th February
+What was taught: Learnt about Encapsulation and Abstraction.
+What i Learned: Learnt about Abstraction, Encapsulation, Interface, Polymorphism and practised some question on these related topics to enhance my skills.
+[Topic]
 
+Abstraction class and methods
+Encapsulation
+Interface and Keyword: implements
+Polymorphism
+12th february
+What was taught: Learnt about Linked List and its types.
+What i Learned: Practised of 10 question on linked list to enhance my skills on each and every types of Linked List.
+[Topic]
+
+Linked List
+Single Linked List
+Doubly Linked List
+Circular Linked List
+13th february
+What was taught: Learnt about Stack, Queue, Hashmap and their types. What i Learned: Practised of 10 question on Stack, Queue, Hashmap to enhance my skills.
+
+[Topic]
+
+Stack
+Queue
+Hashmap
+Hashset
+14th february
+What was taught: Learnt about Sorting. What i Learned: Practised of 10 question on Sorting to enhance my skills.
+
+[Topic]
+
+Bubble Sort
+Selection Sort
+Merge Sort
+Quick Sort
+Countion Sort
+15th february
+What was taught: Learnt about Searching, String Builder and String Buffer. What i Learned: Practised of some questions on Searching, String Builder and String Buffer to
+
+[Topic]
+
+String Builder
+String Buffer
+Linear Search
+Binary Search
+BefferedReader
+BL_2115000098/readme.md at
